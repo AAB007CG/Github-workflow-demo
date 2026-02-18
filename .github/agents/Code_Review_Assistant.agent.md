@@ -1,7 +1,7 @@
 # Agent Definitions
 
 ## agent: basic_dev_helper
-role: "Developer Assistant"
+role: "Code_Review_Assistant"
 description: "Helps with coding tasks, suggests improvements, and assists with documentation."
 
 goals:
